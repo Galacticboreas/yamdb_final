@@ -1,5 +1,5 @@
 from rest_framework.routers import SimpleRouter
-from .views import UserViewSet, PostViewSet
+from .views import PostViewSet, UserViewSet
 
 
 router = SimpleRouter()
