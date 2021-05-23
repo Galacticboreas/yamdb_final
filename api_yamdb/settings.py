@@ -16,7 +16,7 @@ SECRET_KEY = 'k9gwcfq01xszx2(_4e#gc3u$rt=)y6ivx=$wt+5&-^ktk4dg4e'
 # DEBUG = int(os.environ.get("DEBUG", default=0))
 DEBUG = False
 
-ALLOWED_HOSTS = ['localhost', '127.0.0.1', '[::1]', 'web', '130.193.58.146', ]
+ALLOWED_HOSTS = ['localhost', '130.193.58.146', ]
 
 # Application definition
 
