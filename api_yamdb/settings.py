@@ -16,7 +16,7 @@ SECRET_KEY = 'k9gwcfq01xszx2(_4e#gc3u$rt=)y6ivx=$wt+5&-^ktk4dg4e'
 # DEBUG = int(os.environ.get("DEBUG", default=0))
 DEBUG = False
 
-ALLOWED_HOSTS = ['84.201.148.110', 'localhost', 'galacticborey.ml', 'www.galacticborey.ml', ]
+ALLOWED_HOSTS = ['84.201.151.122', 'localhost', 'galacticborey.ml', 'www.galacticborey.ml', ]
 
 # Application definition
 
