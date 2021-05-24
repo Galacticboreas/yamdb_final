@@ -2,7 +2,7 @@ version: '3.7'
 
 services:
   web:
-    build: api_yamdb:latest
+    image: api_yamdb:latest
     restart: always
     volumes:
       - static_value:/app/static
