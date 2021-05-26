@@ -20,7 +20,7 @@ docker-compose exec web python manage.py loaddata fixtures.json
 Иванов Борис
 
 ### Адрес сервера
-84.252.134.247 www.galacticborey.ml 
+84.252.132.11 www.galacticborey.ml 
 
 ### Status badge for a workflow
 https://github.com/Galacticboreas/yamdb_final/actions/workflows/yamdb_workflow.yaml/badge.svg
