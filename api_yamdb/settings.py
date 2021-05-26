@@ -18,7 +18,13 @@ DEBUG = True
 
 
 # ALLOWED_HOSTS = ['*']
-ALLOWED_HOSTS = ['84.252.132.11', 'localhost', 'galacticborey.ml', 'www.galacticborey.ml', ]
+ALLOWED_HOSTS = [
+    '84.252.132.11',
+    'localhost',
+    'galacticborey.ml',
+    'www.galacticborey.ml',
+    'web',
+]
 
 # Application definition
 
